@@ -1,0 +1,6 @@
+{
+  "name": "Dragon Wok Master E-11",
+  "description": "Dragon Wok Master E-11 serves fresh wok-fired Asian-inspired flavors in Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
